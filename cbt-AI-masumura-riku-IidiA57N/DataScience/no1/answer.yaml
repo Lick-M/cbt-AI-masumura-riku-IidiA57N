@@ -1,0 +1,13 @@
+Section1:
+  1-1:
+    mean: 51.9
+    variance: 1158.78
+    quartile-1st: 24
+    quartile-3rd: 81
+
+  1-2: 1, 1, 2, 0, 1, 1, 0, 1, 1, 2 
+
+Section2:
+  2-1: 0.47, False
+
+  2-2: 0.74, False

@@ -1,0 +1,51 @@
+section1:
+  Q1: A, B, C
+  Q2: A
+  Q3:
+    A: 5
+    B: 2
+    C: 9
+    D: 4
+    E: 7
+  Q4: C
+  Q5: A, D
+section2:
+  Q1:
+    A: 7
+    B: 3
+    C: 1
+    D: 8
+    E: 2
+    F: 9
+    G: 6
+    H: 4
+    I: 5
+  Q2:
+    A: 5
+    B: 9
+    C: 1
+    D: 4
+    E: 3
+    F: 7
+    G: 8
+    H: 6
+    I: 2
+    J: 10
+section3:
+  Q1: B, D
+  Q2: B
+  Q3: B
+section4:
+  Q1: A, C, D
+  Q2: D
+  Q3: A
+  Q4: B
+section5:
+  Q1:
+    A: 3
+    B: 5
+    C: 4
+    D: 8
+  Q2:
+    A: C
+    B: B

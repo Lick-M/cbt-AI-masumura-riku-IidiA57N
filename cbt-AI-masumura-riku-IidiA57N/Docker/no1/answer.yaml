@@ -1,0 +1,31 @@
+Section1:
+  Q1:
+    A: 
+    B: 
+    C: 
+    D: 
+    E: 
+    F: 
+  Q2:
+    FROM: 
+    RUN: 
+    CMD: 
+    ENV: 
+    ADD: 
+    COPY: 
+    WORKDIR: 
+Section2:
+  Q1:
+    test1.txt: 
+    requirements.txt: 
+  Q2:
+    test2.txt: 
+    test3.txt: 
+  Q3: 
+  Q4: 
+Section3:
+  ア: 
+  イ: 
+  ウ: 
+  エ: 
+  オ: 
